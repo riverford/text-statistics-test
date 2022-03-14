@@ -1,5 +1,5 @@
 # Technical Test
-We would like you to build an SPA that calculates statistics about text files submitted to it and displays those statistics in a useful form. The solution should be built using modern JavaScript (not TypeScript).
+We would like you to build an SPA that calculates statistics about text files submitted to it and displays those statistics in a useful form. The solution should be built using modern JavaScript or TypeScript.
 
 ## Required Statistics
 - Whitespace delimited word count
