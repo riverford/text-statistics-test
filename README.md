@@ -8,7 +8,7 @@ We would like you to build an SPA that calculates statistics about text files su
 - Most common letter
 
 ## Deliverables
-Create a private GitHub repository and share access to it by emailing richardturner@riverford.co.uk. Your solution must include instructions on how to build and run the application.
+Create a private GitHub repository and share access to it by emailing rogerparkes@riverford.co.uk. Your solution must include instructions on how to build and run the application.
 
 ## Hints
 We will be looking at the accuracy of the your results, code style and readability, its performance against a range of inputs and how easy the code is to extend to additional statistics.
