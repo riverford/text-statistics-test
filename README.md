@@ -25,7 +25,7 @@ Develop an application that can calculate and display the following statistics f
 ## Deliverables
 
 1. Create a private GitHub repository.
-2. Once your solution is ready, share repository access with [junkaneko@riverford.co.uk](mailto:junkaneko@riverford.co.uk) and [ianboucher@riverford.co.uk](mailto:junkaneko@riverford.co.uk).
+2. Once your solution is ready, share repository access with [junkaneko@riverford.co.uk](mailto:junkaneko@riverford.co.uk) and [ianboucher@riverford.co.uk](mailto:ianboucher@riverford.co.uk).
 3. Include a clear set of instructions for building and running your application.
 
 ## Assessment Criteria
